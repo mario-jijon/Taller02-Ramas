@@ -6,3 +6,6 @@ valeska urrutia
 
 mario jijon
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/fb4f0028-9203-44ab-b187-9fcb3d5860c9" />
+
+joshua magallanes
+<img width="802" height="877" alt="imagen_2026-10-07_165023205" src="https://github.com/user-attachments/assets/8af984f4-0662-4632-a705-7d128e68fb7e" />
