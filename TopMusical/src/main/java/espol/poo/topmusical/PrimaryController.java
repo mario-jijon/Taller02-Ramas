@@ -58,7 +58,7 @@ public class PrimaryController {
 
 
     private void mostrarHistorial(Cancion c) {
-        lblTitulo.setText("top 10 canciones");
+        lblTitulo.setText("top 10!");
 
 
         try {
